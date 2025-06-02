@@ -1,4 +1,4 @@
-🏋️‍♂️ Exercise Pose Analysis & Rep Counter 🏃‍♀️
+#🏋️‍♂️ Exercise Pose Analysis & Rep Counter 🏃‍♀️
 This repository contains Python scripts using MediaPipe Pose, OpenCV, and NumPy to monitor and count exercise repetitions from videos. The supported exercises include push-ups, squats, and rope jumping.
 
 | Filename           | Exercise        | Description                                                     |
