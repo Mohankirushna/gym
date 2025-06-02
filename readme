@@ -1,11 +1,11 @@
 🏋️‍♂️ Exercise Pose Analysis & Rep Counter 🏃‍♀️
 This repository contains Python scripts using MediaPipe Pose, OpenCV, and NumPy to monitor and count exercise repetitions from videos. The supported exercises include push-ups, squats, and rope jumping.
 
-📄 Scripts & Features
-Filename	Exercise	Description
-pushup_count.py	💪 Push-ups	Counts push-up reps by analyzing elbow and shoulder positions.
-squarts_count.py	🏋️‍♀️ Squats	Counts squat reps using knee joint angles and pose state logic.
-rope_count.py	🪢 Rope Jumping	Tracks vertical hip centroid movement to count jumps.
+| Filename           | Exercise        | Description                                                     |
+| ------------------ | --------------- | --------------------------------------------------------------- |
+| `pushup_count.py`  | 💪 Push-ups     | Counts push-up reps by analyzing elbow and shoulder positions.  |
+| `squarts_count.py` | 🏋️‍♀️ Squats   | Counts squat reps using knee joint angles and pose state logic. |
+| `rope_count.py`    | 🪢 Rope Jumping | Tracks vertical hip centroid movement to count jumps.           |
 
 🛠️ Requirements
 Python 3.7+
